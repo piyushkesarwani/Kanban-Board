@@ -1,0 +1,15 @@
+.boardBtn {
+    position: absolute;
+}
+
+.boardsContainer {
+    height: 100% !important;
+}
+
+.singleBoard {
+    height: 100% !important;
+}
+
+.cardContainer {
+    height: 100% !important;
+}

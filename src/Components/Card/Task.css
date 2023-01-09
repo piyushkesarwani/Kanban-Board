@@ -1,0 +1,9 @@
+.commentsBtn {
+    border: none;
+    background: none;
+}
+
+.singleTask {
+    border-radius: 10px;
+    cursor: pointer;
+}
